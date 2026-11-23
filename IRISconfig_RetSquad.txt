@@ -28,8 +28,8 @@ color = "Red"
 
 [[orgs]]
 sid = "RETSQUAD"
-priority = 2
-color = "Purple"
+priority = 3
+color = "Green"
 
 [[orgs]]
 sid = "AVSQN"
@@ -38,7 +38,7 @@ color = "Red"
 
 [[orgs]]
 sid = "388"
-priority = 3
+priority = 2
 color = "Orange"
 
 [[org_rules]]
