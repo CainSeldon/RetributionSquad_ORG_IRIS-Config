@@ -29,7 +29,7 @@ color = "Red"
 [[orgs]]
 sid = "RETSQUAD"
 priority = 3
-color = "Purple"
+color = "Green"
 
 [[orgs]]
 sid = "AVSQN"
